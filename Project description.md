@@ -3,7 +3,7 @@
 ## Project description
 
 ### Oversight:
-We are planning to make an 8-bit CPU. For that we use different gates and a brackedboard (for more see material requirements). Our Group is composed of  Barththan Sivanantham, Kian Hugenschmidt and Matthias Müller.
+We are planning to make an 8-bit CPU. For that we use different gates and a breadboard (for more see material requirements). Our Group is composed of  Barththan Sivanantham, Kian Hugenschmidt and Matthias Müller.
 
 ### Supportet Operations by the CPU:
 * the three load instructions (ldi, ldr, ld)
@@ -35,9 +35,10 @@ Total Costs estimation:  ca 340 Fr. (+ 90 Fr. )[^1]
 
 [^1]: following equipment could be lend, must not be bought.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTA5NTkwMCwtMTIxOTYzODkzOSwxNj
-E1MjM0MzQ5LDE4NTA3MTk4MzksOTAyMjcwODUxLDEwNzYwMDc4
-MzEsLTE2Njg2OTA0MDIsMTQ2NjkzNDEyNywxMzA4NjU2MTAwLD
-EzMzEwMTM5MDksLTE4MDQxNzgyMjksLTkwMjE0NTAxMywtMjEz
-OTExNDYyOCwxOTEyNTg4NzMzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODA4NjY4MTY0LC0zNjkwOTU5MDAsLTEyMT
+k2Mzg5MzksMTYxNTIzNDM0OSwxODUwNzE5ODM5LDkwMjI3MDg1
+MSwxMDc2MDA3ODMxLC0xNjY4NjkwNDAyLDE0NjY5MzQxMjcsMT
+MwODY1NjEwMCwxMzMxMDEzOTA5LC0xODA0MTc4MjI5LC05MDIx
+NDUwMTMsLTIxMzkxMTQ2MjgsMTkxMjU4ODczMyw3MzA5OTgxMT
+ZdfQ==
 -->
