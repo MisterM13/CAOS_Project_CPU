@@ -17,7 +17,7 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * a Power Supply Unit							-> ca 50 Fr.
 * two ammeters										-> (ca 40 Fr.)
 * 200 cables with different length		-> ca 50 Fr.
-* a clock chip											-> ca 2 Fr.
+* 2 clock chips										-> ca 2 Fr.
 * 4 memory chips									-> ca 20 Fr.
 * 20 LED 												-> ca 5 Fr.
 * 20 Buttons											-> ca 5 Fr.
@@ -25,7 +25,7 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDc2MDgwOCwtMTY2ODY5MDQwMiwxND
+eyJoaXN0b3J5IjpbLTEyMTYzMjYzOCwtMTY2ODY5MDQwMiwxND
 Y2OTM0MTI3LDEzMDg2NTYxMDAsMTMzMTAxMzkwOSwtMTgwNDE3
 ODIyOSwtOTAyMTQ1MDEzLC0yMTM5MTE0NjI4LDE5MTI1ODg3Mz
 MsNzMwOTk4MTE2XX0=
