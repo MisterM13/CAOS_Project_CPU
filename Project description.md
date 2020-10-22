@@ -12,7 +12,7 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * command operations: branch, jump and nop
 
 ### Input/Output
-The input and output is handled with LEDs and 
+The input and output is handled with LEDs and Buttons
 
 ### Material requirements:
 * 100 Logic Gate Chips each ( AND, OR, NAND, XOR, NOR, NOT, Buffer)											-> ca 60 Fr.
@@ -35,9 +35,9 @@ Total Costs estimation:  ca 340 Fr. (+ 90 Fr. )[^1]
 
 [^1]: following equipment could be lend, must not be bought.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzODMxNjg2LC0xMjE5NjM4OTM5LDE2MT
-UyMzQzNDksMTg1MDcxOTgzOSw5MDIyNzA4NTEsMTA3NjAwNzgz
-MSwtMTY2ODY5MDQwMiwxNDY2OTM0MTI3LDEzMDg2NTYxMDAsMT
-MzMTAxMzkwOSwtMTgwNDE3ODIyOSwtOTAyMTQ1MDEzLC0yMTM5
-MTE0NjI4LDE5MTI1ODg3MzMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1ODI0NzUyMjcsLTEyMTk2Mzg5MzksMT
+YxNTIzNDM0OSwxODUwNzE5ODM5LDkwMjI3MDg1MSwxMDc2MDA3
+ODMxLC0xNjY4NjkwNDAyLDE0NjY5MzQxMjcsMTMwODY1NjEwMC
+wxMzMxMDEzOTA5LC0xODA0MTc4MjI5LC05MDIxNDUwMTMsLTIx
+MzkxMTQ2MjgsMTkxMjU4ODczMyw3MzA5OTgxMTZdfQ==
 -->
