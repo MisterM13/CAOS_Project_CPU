@@ -9,12 +9,14 @@
 ### Oversight:
 We are planning to make an 8-bit CPU. For that we use different gates and a brackedboard (for more see material requirements). Our Group is composed of  Barththan Sivanantham, Kian Hugenschmidt and Matthias Müller.
 
-### supportet Operations by the CPU:
+### Supportet Operations by the CPU:
 * the tree load instructions
 * an instruction to load data from the registry on the memory
 * Basic calculation options
-* branch oper
+* command operations: branch, jump and nop
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzYyODkwNjIsMTkxMjU4ODczMyw3Mz
+eyJoaXN0b3J5IjpbLTIxMzkxMTQ2MjgsMTkxMjU4ODczMyw3Mz
 A5OTgxMTZdfQ==
 -->
