@@ -28,9 +28,9 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 Total Costs estimation:  ca 310 Fr. (+ 90 Fr. )[^1]
 
 
-[^1]: following equipment could be 
+[^1]: following equipment could be lend, must not be bought.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzE2NDc4Miw5MDIyNzA4NTEsMTA3Nj
+eyJoaXN0b3J5IjpbMTg1MDcxOTgzOSw5MDIyNzA4NTEsMTA3Nj
 AwNzgzMSwtMTY2ODY5MDQwMiwxNDY2OTM0MTI3LDEzMDg2NTYx
 MDAsMTMzMTAxMzkwOSwtMTgwNDE3ODIyOSwtOTAyMTQ1MDEzLC
 0yMTM5MTE0NjI4LDE5MTI1ODg3MzMsNzMwOTk4MTE2XX0=
