@@ -19,7 +19,7 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 200 cables with different length		-> ca 50 Fr.
 * 2 clock chips										-> ca 2 Fr.
 * 32 d-flipflops										-> ca 18 Fr.
-* 4 memory chips									-> ca 20 Fr.
+* 4 Ram memory chips							-> ca 20 Fr.
 * 20 LED 												-> ca 5 Fr.
 * 20 Buttons											-> ca 5 Fr.
 * eventually a Solding station with equipment ->(ca 50 Fr.)
@@ -28,8 +28,8 @@ Total Costs estimation:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5ODc0NDc4LDkwMjI3MDg1MSwxMDc2MD
-A3ODMxLC0xNjY4NjkwNDAyLDE0NjY5MzQxMjcsMTMwODY1NjEw
-MCwxMzMxMDEzOTA5LC0xODA0MTc4MjI5LC05MDIxNDUwMTMsLT
-IxMzkxMTQ2MjgsMTkxMjU4ODczMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk5OTc5ODQ2OCw5MDIyNzA4NTEsMTA3Nj
+AwNzgzMSwtMTY2ODY5MDQwMiwxNDY2OTM0MTI3LDEzMDg2NTYx
+MDAsMTMzMTAxMzkwOSwtMTgwNDE3ODIyOSwtOTAyMTQ1MDEzLC
+0yMTM5MTE0NjI4LDE5MTI1ODg3MzMsNzMwOTk4MTE2XX0=
 -->
