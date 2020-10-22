@@ -11,6 +11,9 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * Basic calculation options (multiplication, addition, subraction, division)
 * command operations: branch, jump and nop
 
+### Input/Output
+The input and output is handled about  
+
 ### Material requirements:
 * 100 Logic Gate Chips each ( AND, OR, NAND, XOR, NOR, NOT, Buffer)											-> ca 60 Fr.
 * 20 Breadboards/5 big breadboards 	-> ca 80 Fr.
@@ -27,12 +30,12 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 20 condensators									-> ca 10 Fr.
 * eventually a Solding station with equipment ->(ca 50 Fr.)[^1]
 
-Total Costs estimation:  ca 310 Fr. (+ 90 Fr. )[^1]
+Total Costs estimation:  ca 340 Fr. (+ 90 Fr. )[^1]
 
 
 [^1]: following equipment could be lend, must not be bought.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjExMzc0MSwtMTIxOTYzODkzOSwxNj
+eyJoaXN0b3J5IjpbLTM5Mjk1MjU1NywtMTIxOTYzODkzOSwxNj
 E1MjM0MzQ5LDE4NTA3MTk4MzksOTAyMjcwODUxLDEwNzYwMDc4
 MzEsLTE2Njg2OTA0MDIsMTQ2NjkzNDEyNywxMzA4NjU2MTAwLD
 EzMzEwMTM5MDksLTE4MDQxNzgyMjksLTkwMjE0NTAxMywtMjEz
