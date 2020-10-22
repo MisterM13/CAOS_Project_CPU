@@ -16,8 +16,9 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 
 * a Power Supply Unit
 * an ammeter
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjY5NDMyNywxMzA4NjU2MTAwLDEzMz
+eyJoaXN0b3J5IjpbMTQ2NjkzNDEyNywxMzA4NjU2MTAwLDEzMz
 EwMTM5MDksLTE4MDQxNzgyMjksLTkwMjE0NTAxMywtMjEzOTEx
 NDYyOCwxOTEyNTg4NzMzLDczMDk5ODExNl19
 -->
