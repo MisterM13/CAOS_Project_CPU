@@ -16,8 +16,9 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * command operations: branch, jump and nop
 
 ### Material requirements:
-
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQxNzgyMjksLTkwMjE0NTAxMywtMj
-EzOTExNDYyOCwxOTEyNTg4NzMzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTMzMTAxMzkwOSwtMTgwNDE3ODIyOSwtOT
+AyMTQ1MDEzLC0yMTM5MTE0NjI4LDE5MTI1ODg3MzMsNzMwOTk4
+MTE2XX0=
 -->
