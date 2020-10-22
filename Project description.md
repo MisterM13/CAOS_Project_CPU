@@ -16,9 +16,10 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * command operations: branch, jump and nop
 
 ### Material requirements:
-* 100 Logic Gates each ( AND, OR, NAND
+* 100 Logic Gates each ( AND, OR, NAND, XOR, NOR, NOT, Buffer)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MjkwMzYwLDEzMzEwMTM5MDksLTE4MD
-QxNzgyMjksLTkwMjE0NTAxMywtMjEzOTExNDYyOCwxOTEyNTg4
-NzMzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTMwODY1NjEwMCwxMzMxMDEzOTA5LC0xOD
+A0MTc4MjI5LC05MDIxNDUwMTMsLTIxMzkxMTQ2MjgsMTkxMjU4
+ODczMyw3MzA5OTgxMTZdfQ==
 -->
