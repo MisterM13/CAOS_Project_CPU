@@ -23,6 +23,7 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 4 eeprom chips									-> ca 2 Fr.
 * 20 LED 												-> ca 5 Fr.
 * 20 Buttons											-> ca 5 Fr.
+* 200 resistors										-
 * eventually a Solding station with equipment ->(ca 50 Fr.)[^1]
 
 Total Costs estimation:  ca 310 Fr. (+ 90 Fr. )[^1]
@@ -30,9 +31,9 @@ Total Costs estimation:  ca 310 Fr. (+ 90 Fr. )[^1]
 
 [^1]: following equipment could be lend, must not be bought.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTIzNDM0OSwxODUwNzE5ODM5LDkwMj
-I3MDg1MSwxMDc2MDA3ODMxLC0xNjY4NjkwNDAyLDE0NjY5MzQx
-MjcsMTMwODY1NjEwMCwxMzMxMDEzOTA5LC0xODA0MTc4MjI5LC
-05MDIxNDUwMTMsLTIxMzkxMTQ2MjgsMTkxMjU4ODczMyw3MzA5
-OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTc1OTI3NTE2OCwxNjE1MjM0MzQ5LDE4NT
+A3MTk4MzksOTAyMjcwODUxLDEwNzYwMDc4MzEsLTE2Njg2OTA0
+MDIsMTQ2NjkzNDEyNywxMzA4NjU2MTAwLDEzMzEwMTM5MDksLT
+E4MDQxNzgyMjksLTkwMjE0NTAxMywtMjEzOTExNDYyOCwxOTEy
+NTg4NzMzLDczMDk5ODExNl19
 -->
