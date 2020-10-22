@@ -22,9 +22,12 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 20 LED 
 * 20 Buttons
 * eventually a Solding station with equipment
+
+Estimated Cost:
+: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MzgzODU3LC0xNjY4NjkwNDAyLDE0Nj
-Y5MzQxMjcsMTMwODY1NjEwMCwxMzMxMDEzOTA5LC0xODA0MTc4
-MjI5LC05MDIxNDUwMTMsLTIxMzkxMTQ2MjgsMTkxMjU4ODczMy
-w3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MzQxMzgxMzgsLTE2Njg2OTA0MDIsMT
+Q2NjkzNDEyNywxMzA4NjU2MTAwLDEzMzEwMTM5MDksLTE4MDQx
+NzgyMjksLTkwMjE0NTAxMywtMjEzOTExNDYyOCwxOTEyNTg4Nz
+MzLDczMDk5ODExNl19
 -->
