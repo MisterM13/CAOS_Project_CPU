@@ -24,7 +24,7 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 20 LED 												-> ca 5 Fr.
 * 20 Buttons											-> ca 5 Fr.
 * 200 resistors										-> ca 20 Fr.
-* 20 c
+* 20 condensators									-> ca 10 Fr.
 * eventually a Solding station with equipment ->(ca 50 Fr.)[^1]
 
 Total Costs estimation:  ca 310 Fr. (+ 90 Fr. )[^1]
@@ -32,9 +32,9 @@ Total Costs estimation:  ca 310 Fr. (+ 90 Fr. )[^1]
 
 [^1]: following equipment could be lend, must not be bought.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTYyNDEzMSwxNjE1MjM0MzQ5LDE4NT
-A3MTk4MzksOTAyMjcwODUxLDEwNzYwMDc4MzEsLTE2Njg2OTA0
-MDIsMTQ2NjkzNDEyNywxMzA4NjU2MTAwLDEzMzEwMTM5MDksLT
-E4MDQxNzgyMjksLTkwMjE0NTAxMywtMjEzOTExNDYyOCwxOTEy
-NTg4NzMzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyMTk2Mzg5MzksMTYxNTIzNDM0OSwxOD
+UwNzE5ODM5LDkwMjI3MDg1MSwxMDc2MDA3ODMxLC0xNjY4Njkw
+NDAyLDE0NjY5MzQxMjcsMTMwODY1NjEwMCwxMzMxMDEzOTA5LC
+0xODA0MTc4MjI5LC05MDIxNDUwMTMsLTIxMzkxMTQ2MjgsMTkx
+MjU4ODczMyw3MzA5OTgxMTZdfQ==
 -->
