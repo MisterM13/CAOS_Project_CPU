@@ -15,10 +15,14 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 100 Logic Gates each ( AND, OR, NAND, XOR, NOR, NOT, Buffer)
 * 20 Breadboards/5 big breadboards
 * a Power Supply Unit
-* an ammeter
-* 200 cables
+* two ammeters
+* 200 cables with different length
+* a clock chip
+* 4 memory chips
+* 20 LED
+* eventually a Solding station with equipment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQ4NTE4MTUsMTQ2NjkzNDEyNywxMz
+eyJoaXN0b3J5IjpbLTE2Njg2OTA0MDIsMTQ2NjkzNDEyNywxMz
 A4NjU2MTAwLDEzMzEwMTM5MDksLTE4MDQxNzgyMjksLTkwMjE0
 NTAxMywtMjEzOTExNDYyOCwxOTEyNTg4NzMzLDczMDk5ODExNl
 19
