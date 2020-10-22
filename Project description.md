@@ -6,7 +6,7 @@
 We are planning to make an 8-bit CPU. For that we use different gates and a brackedboard (for more see material requirements). Our Group is composed of  Barththan Sivanantham, Kian Hugenschmidt and Matthias Müller.
 
 ### Supportet Operations by the CPU:
-* the three load instructions
+* the three load instructions (ldi, ldr, 
 * an instruction to load data from the registry on the memory
 * Basic calculation options
 * command operations: branch, jump and nop
@@ -15,7 +15,7 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 100 Logic Gates each ( AND, OR, NAND, XOR, NOR, NOT, Buffer)
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDkwMjQ4NiwxMzA4NjU2MTAwLDEzMz
-EwMTM5MDksLTE4MDQxNzgyMjksLTkwMjE0NTAxMywtMjEzOTEx
-NDYyOCwxOTEyNTg4NzMzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTAxMDQ3ODMzLDEzMDg2NTYxMDAsMTMzMT
+AxMzkwOSwtMTgwNDE3ODIyOSwtOTAyMTQ1MDEzLC0yMTM5MTE0
+NjI4LDE5MTI1ODg3MzMsNzMwOTk4MTE2XX0=
 -->
