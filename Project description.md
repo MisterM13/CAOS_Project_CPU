@@ -1,8 +1,4 @@
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
-
 # CAOS project: making a CPU
 ## Project description
 
@@ -19,7 +15,7 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 100 Logic Gates each ( AND, OR, NAND, XOR, NOR, NOT, Buffer)
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODY1NjEwMCwxMzMxMDEzOTA5LC0xOD
-A0MTc4MjI5LC05MDIxNDUwMTMsLTIxMzkxMTQ2MjgsMTkxMjU4
-ODczMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTkzMDkwMjQ4NiwxMzA4NjU2MTAwLDEzMz
+EwMTM5MDksLTE4MDQxNzgyMjksLTkwMjE0NTAxMywtMjEzOTEx
+NDYyOCwxOTEyNTg4NzMzLDczMDk5ODExNl19
 -->
