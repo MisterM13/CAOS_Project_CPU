@@ -15,18 +15,19 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 100 Logic Gates each ( AND, OR, NAND, XOR, NOR, NOT, Buffer)											-> ca 60 Fr.
 * 20 Breadboards/5 big breadboards 	-> ca 80 Fr.
 * a Power Supply Unit							-> ca 50 Fr.
-* two ammeters										-> (ca 40 Fr.)[^1]
+* two ammeters										-> (ca 40 Fr.)
 * 200 cables with different length		-> ca 50 Fr.
 * 2 clock chips										-> ca 2 Fr.
 * 4 memory chips									-> ca 20 Fr.
 * 20 LED 												-> ca 5 Fr.
 * 20 Buttons											-> ca 5 Fr.
-* eventually a Solding station with equipment ->(ca 50 Fr.)[^*]
+* eventually a Solding station with equipment ->(ca 50 Fr.)
 
+Total Costs estimation: 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjcyNzM0OSwtMTY2ODY5MDQwMiwxND
+eyJoaXN0b3J5IjpbMTA3NjAwNzgzMSwtMTY2ODY5MDQwMiwxND
 Y2OTM0MTI3LDEzMDg2NTYxMDAsMTMzMTAxMzkwOSwtMTgwNDE3
 ODIyOSwtOTAyMTQ1MDEzLC0yMTM5MTE0NjI4LDE5MTI1ODg3Mz
 MsNzMwOTk4MTE2XX0=
