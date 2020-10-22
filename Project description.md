@@ -12,7 +12,7 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * command operations: branch, jump and nop
 
 ### Material requirements:
-* 100 Logic Gates each ( AND, OR, NAND, XOR, NOR, NOT, Buffer)
+* 100 Logic Gates each ( AND, OR, NAND, XOR, NOR, NOT, Buffer) - estimated cost 60 Fr.
 * 20 Breadboards/5 big breadboards
 * a Power Supply Unit
 * two ammeters
@@ -23,11 +23,10 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 20 Buttons
 * eventually a Solding station with equipment
 
-Estimated Cost:
-: 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQxMzgxMzgsLTE2Njg2OTA0MDIsMT
-Q2NjkzNDEyNywxMzA4NjU2MTAwLDEzMzEwMTM5MDksLTE4MDQx
-NzgyMjksLTkwMjE0NTAxMywtMjEzOTExNDYyOCwxOTEyNTg4Nz
-MzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTM0Njg2MzU3OSwtMTY2ODY5MDQwMiwxND
+Y2OTM0MTI3LDEzMDg2NTYxMDAsMTMzMTAxMzkwOSwtMTgwNDE3
+ODIyOSwtOTAyMTQ1MDEzLC0yMTM5MTE0NjI4LDE5MTI1ODg3Mz
+MsNzMwOTk4MTE2XX0=
 -->
