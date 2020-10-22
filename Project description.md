@@ -16,9 +16,10 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 
 * a Power Supply Unit
 * an ammeter
-* 
+* 20 Breadboards/5 g
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjkzNDEyNywxMzA4NjU2MTAwLDEzMz
-EwMTM5MDksLTE4MDQxNzgyMjksLTkwMjE0NTAxMywtMjEzOTEx
-NDYyOCwxOTEyNTg4NzMzLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIwNzI2MjQ5NjEsMTQ2NjkzNDEyNywxMz
+A4NjU2MTAwLDEzMzEwMTM5MDksLTE4MDQxNzgyMjksLTkwMjE0
+NTAxMywtMjEzOTExNDYyOCwxOTEyNTg4NzMzLDczMDk5ODExNl
+19
 -->
