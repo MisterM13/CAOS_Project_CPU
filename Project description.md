@@ -6,7 +6,7 @@
 # CAOS project: making a CPU
 ## Project description
 
-We are m
+We are planning to make an 8-bit CPU. For that we use different gates and a brackedboard. Our Group is 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzQ5OTMxNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTQ2MTU2ODUyNyw3MzA5OTgxMTZdfQ==
 -->
