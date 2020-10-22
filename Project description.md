@@ -6,7 +6,7 @@
 # CAOS project: making a CPU
 ## Project description
 
-
+We are m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDQ3MTIzNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTcwMzQ5OTMxNiw3MzA5OTgxMTZdfQ==
 -->
