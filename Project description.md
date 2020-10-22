@@ -25,12 +25,13 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 20 Buttons											-> ca 5 Fr.
 * eventually a Solding station with equipment ->(ca 50 Fr.)
 
-Total Costs estimation: 
+Total Costs estimation:  ca 310 Fr. (+ 90 Fr. )[^1]
 
 
+[^1]: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1MzM2NDEyLDkwMjI3MDg1MSwxMDc2MD
-A3ODMxLC0xNjY4NjkwNDAyLDE0NjY5MzQxMjcsMTMwODY1NjEw
-MCwxMzMxMDEzOTA5LC0xODA0MTc4MjI5LC05MDIxNDUwMTMsLT
-IxMzkxMTQ2MjgsMTkxMjU4ODczMyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTAwNjg2MTI1Nyw5MDIyNzA4NTEsMTA3Nj
+AwNzgzMSwtMTY2ODY5MDQwMiwxNDY2OTM0MTI3LDEzMDg2NTYx
+MDAsMTMzMTAxMzkwOSwtMTgwNDE3ODIyOSwtOTAyMTQ1MDEzLC
+0yMTM5MTE0NjI4LDE5MTI1ODg3MzMsNzMwOTk4MTE2XX0=
 -->
