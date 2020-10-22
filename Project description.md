@@ -19,11 +19,12 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brac
 * 200 cables with different length
 * a clock chip
 * 4 memory chips
-* 20 LED
+* 20 LED 
+* 20 Buttons
 * eventually a Solding station with equipment
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njg2OTA0MDIsMTQ2NjkzNDEyNywxMz
-A4NjU2MTAwLDEzMzEwMTM5MDksLTE4MDQxNzgyMjksLTkwMjE0
-NTAxMywtMjEzOTExNDYyOCwxOTEyNTg4NzMzLDczMDk5ODExNl
-19
+eyJoaXN0b3J5IjpbMzM2MzgzODU3LC0xNjY4NjkwNDAyLDE0Nj
+Y5MzQxMjcsMTMwODY1NjEwMCwxMzMxMDEzOTA5LC0xODA0MTc4
+MjI5LC05MDIxNDUwMTMsLTIxMzkxMTQ2MjgsMTkxMjU4ODczMy
+w3MzA5OTgxMTZdfQ==
 -->
