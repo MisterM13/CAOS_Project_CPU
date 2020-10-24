@@ -14,8 +14,7 @@ We are planning to make an 8-bit CPU. For that we use different gates and a brea
 ### Input/Output
 The input and output is handled with integrated LEDs and Buttons.
 
-### Material requirements:
-* 100 Logic Gate Chips each ( AND, OR, NAND, XOR, NOR, NOT, Buffer)											-> ca 60 Fr.
+### Material requirements:* 100 Logic Gate Chips each ( AND, OR, NAND, XOR, NOR, NOT, Buffer)											-> ca 60 Fr.
 * 20 Breadboards/5 big breadboards 	-> ca 80 Fr.
 * a Power Supply Unit							-> ca 50 Fr.
 * two ammeters										-> (ca 40 Fr.)[^1]
@@ -35,10 +34,10 @@ Total Costs estimation:  ca 340 Fr. (+ 90 Fr. )[^1]
 
 [^1]: following equipment could be lend, must not be bought.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NjY4MTY0LC0zNjkwOTU5MDAsLTEyMT
-k2Mzg5MzksMTYxNTIzNDM0OSwxODUwNzE5ODM5LDkwMjI3MDg1
-MSwxMDc2MDA3ODMxLC0xNjY4NjkwNDAyLDE0NjY5MzQxMjcsMT
-MwODY1NjEwMCwxMzMxMDEzOTA5LC0xODA0MTc4MjI5LC05MDIx
-NDUwMTMsLTIxMzkxMTQ2MjgsMTkxMjU4ODczMyw3MzA5OTgxMT
-ZdfQ==
+eyJoaXN0b3J5IjpbLTEzMDM5NjU4LDgwODY2ODE2NCwtMzY5MD
+k1OTAwLC0xMjE5NjM4OTM5LDE2MTUyMzQzNDksMTg1MDcxOTgz
+OSw5MDIyNzA4NTEsMTA3NjAwNzgzMSwtMTY2ODY5MDQwMiwxND
+Y2OTM0MTI3LDEzMDg2NTYxMDAsMTMzMTAxMzkwOSwtMTgwNDE3
+ODIyOSwtOTAyMTQ1MDEzLC0yMTM5MTE0NjI4LDE5MTI1ODg3Mz
+MsNzMwOTk4MTE2XX0=
 -->
